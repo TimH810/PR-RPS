@@ -1,4 +1,4 @@
 # PR-RPS
-Older player shows: Stein
+Older player shows: Papier
 
 Younger player shows:
