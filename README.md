@@ -1,5 +1,5 @@
 # PR-RPS
-Older player shows: Stein
+Older player shows: 
 
 Younger player shows:
-Stein
+Papier
